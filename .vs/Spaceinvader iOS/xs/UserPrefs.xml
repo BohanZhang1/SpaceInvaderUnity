@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A38E3D08-A3A2-EB11-F8EA-6DBD4CB6EB6D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="20" Column="44" IsPinned="True" />
+      <File FileName="Assets/Scripts/BulletController.cs" Line="26" Column="6" />
+      <File FileName="Assets/Scripts/BaseHealth.cs" Line="14" Column="21" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/BaseDefeat.cs" Line="22" Column="42" />
+      <File FileName="Assets/Scripts/RestartLevel.cs" Line="15" Column="41" />
+      <File FileName="Assets/Scripts/PlayerScore.cs" Line="19" Column="50" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="13" Column="35" />
+      <File FileName="Assets/Scripts/EnemyBulletController.cs" Line="5" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spaceinvader iOS" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemyController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Spaceinvader iOS" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="946f5a11-4a08-416c-86dd-9a9ca7ca7f1b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

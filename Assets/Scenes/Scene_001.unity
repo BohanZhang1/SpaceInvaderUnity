@@ -8608,10 +8608,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc6dded694d7244708c35c36609f2364, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 0.5
   shot: {fileID: 5563593534812622486, guid: 44ec09d92b1144ce3a7f1a2b269b57bc, type: 3}
   winText: {fileID: 1902862102}
-  fireRate: 0.9
+  fireRate: 2
 --- !u!50 &1184617087
 Rigidbody2D:
   serializedVersion: 4
@@ -9709,12 +9709,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67a47a8d3a8a249fa91143e101f3fde5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  speed: 0.5
   maxBound: 14
   minBound: -14
   shot: {fileID: 436462774574292881, guid: d5af32c44c83e4684b2411d74d6544e1, type: 3}
   shotSpawn: {fileID: 1373624136}
-  fireRate: 0.5
+  fireRate: 0.1
 --- !u!50 &1373624131
 Rigidbody2D:
   serializedVersion: 4
